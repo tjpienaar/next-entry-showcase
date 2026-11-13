@@ -8,6 +8,8 @@ Play testing), with a browser demo on sample data.
 
 > This repository holds no code; the app's source is private. This page shows what the app does and how it is built.
 
+<p align="center"><img src="images/next-entry-checkin.gif" alt="The 20-second check-in, the checklist and logging a trade, on a phone" width="320"></p>
+
 ## Who it is for
 
 Traders who know their plan but struggle to stick to it, first for the P3xA price-action community. Next Entry is
@@ -29,6 +31,8 @@ not a journal first: it is there at the moment you are about to enter.
 - A loss buffer and guardrails: a pause after a loss and a daily stop.
 - Stats: edge, drawdown, streaks, calendars and results by session.
 - A private journal.
+
+<p align="center"><img src="images/next-entry-stats.png" alt="The stats screen on demo data, on a phone" width="300"></p>
 
 ## How it's built
 
